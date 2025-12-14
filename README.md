@@ -1,4 +1,4 @@
-# Agence-Immobili-re
+# real-estate-lux-demo
 Ce site démo illustre une solution web moderne, élégante et performante, spécialement conçue pour les agences immobilières au Luxembourg.
 L’interface met en avant les biens immobiliers de manière claire et attractive, avec un design premium inspiré des standards du marché haut de gamme. La navigation est fluide, intuitive et entièrement optimisée pour les ordinateurs, tablettes et smartphones.
 Points forts du site
